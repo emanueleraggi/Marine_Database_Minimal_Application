@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>new_database.png</file>
+        <file>open.png</file>
+        <file>close.png</file>
+        <file>remove_item.png</file>
+        <file>add_item.png</file>
+        <file>open_image.png</file>
+    </qresource>
+</RCC>
